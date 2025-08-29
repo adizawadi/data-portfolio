@@ -1,4 +1,4 @@
-Adrian Zawadka - data portfolio
+# Adrian Zawadka - data portfolio
 
 Witaj!
 Nazywam się Adrian Zawadka i jestem specjalistą ds. danych z ponad 3-letnim doświadczeniem.
