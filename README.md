@@ -9,7 +9,7 @@ Buduję tutaj swoje portfolio w kierunku Data Engineer / Data Science
 # Technologie i narzędzia:
  - **SQL** (BigQuery/Oracle SQL Developer/Teradata)
  - **Python** (pandas, automatyzacje, ETL)
- - **Looker Studio**
+ - **Power BI**
  - **Git & GitHub**
  - Airflow, dbt, PySpark, ML (w trakcie)
 
@@ -33,7 +33,7 @@ Buduję tutaj swoje portfolio w kierunku Data Engineer / Data Science
 
 # Kontakt
 Email: adrianzawadka@gmail.com
-LinkedIn: link
+LinkedIn: 
 Lokalizacja: Warszawa
 
  -----
